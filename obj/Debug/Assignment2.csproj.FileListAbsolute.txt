@@ -1,0 +1,201 @@
+E:\github\31927-Assignment2-Group2\Assignment2\bin\Debug\Assignment2.exe.config
+E:\github\31927-Assignment2-Group2\Assignment2\bin\Debug\Assignment2.exe
+E:\github\31927-Assignment2-Group2\Assignment2\bin\Debug\Assignment2.pdb
+E:\github\31927-Assignment2-Group2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+E:\github\31927-Assignment2-Group2\Assignment2\obj\Debug\Assignment2.formLogin.resources
+E:\github\31927-Assignment2-Group2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+E:\github\31927-Assignment2-Group2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+E:\github\31927-Assignment2-Group2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+E:\github\31927-Assignment2-Group2\Assignment2\obj\Debug\Assignment2.exe
+E:\github\31927-Assignment2-Group2\Assignment2\obj\Debug\Assignment2.pdb
+E:\github\31927-Assignment2-Group2\Assignment2\obj\Debug\Assignment2.Form2.resources
+C:\Users\USER\Desktop\31927-Assignment2-Group2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\USER\Desktop\31927-Assignment2-Group2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\USER\Desktop\31927-Assignment2-Group2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\USER\Desktop\31927-Assignment2-Group2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\31927-Assignment2-Group2\Assignment2\obj\Debug\Assignment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\31927-Assignment2-Group2\Assignment2\obj\Debug\Assignment2.formLogin.resources
+C:\Users\USER\Desktop\31927-Assignment2-Group2\Assignment2\obj\Debug\Assignment2.Form2.resources
+C:\Users\USER\Desktop\31927-Assignment2-Group2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\USER\Desktop\31927-Assignment2-Group2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\31927-Assignment2-Group2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\31927-Assignment2-Group2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\USER\Desktop\31927-Assignment2-Group2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\USER\Desktop\31927-Assignment2-Group2\bin\Debug\Assignment2.exe.config
+C:\Users\USER\Desktop\31927-Assignment2-Group2\bin\Debug\Assignment2.exe
+C:\Users\USER\Desktop\31927-Assignment2-Group2\bin\Debug\Assignment2.pdb
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.CustomerForm.resources
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.formLogin.resources
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.Form2.resources
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.exe
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.pdb
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.ShoppingCart.resources
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\checkout.checkout.resources
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\checkout.Confirmation.resources
+E:\github\31927-Assignment2-Group2\bin\Debug\Assignment2.exe.config
+E:\github\31927-Assignment2-Group2\bin\Debug\Assignment2.exe
+E:\github\31927-Assignment2-Group2\bin\Debug\Assignment2.pdb
+E:\github\31927-Assignment2-Group2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+E:\github\31927-Assignment2-Group2\obj\Debug\checkout.Checkout.resources
+E:\github\31927-Assignment2-Group2\obj\Debug\checkout.Confirmation.resources
+E:\github\31927-Assignment2-Group2\obj\Debug\Assignment2.CustomerForm.resources
+E:\github\31927-Assignment2-Group2\obj\Debug\Assignment2.formLogin.resources
+E:\github\31927-Assignment2-Group2\obj\Debug\Assignment2.Form2.resources
+E:\github\31927-Assignment2-Group2\obj\Debug\Assignment2.Properties.Resources.resources
+E:\github\31927-Assignment2-Group2\obj\Debug\Assignment2.ShoppingCart.resources
+E:\github\31927-Assignment2-Group2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+E:\github\31927-Assignment2-Group2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+E:\github\31927-Assignment2-Group2\obj\Debug\Assignment2.exe
+E:\github\31927-Assignment2-Group2\obj\Debug\Assignment2.pdb
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\checkout.Checkout.resources
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\checkout.Confirmation.resources
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.CustomerForm.resources
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.formLogin.resources
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.Form2.resources
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.SellerForm.resources
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.ShoppingCart.resources
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.exe
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.pdb
+C:\Users\barry\Desktop\31927-Assignment2-Group2\bin\Debug\Assignment2.exe.config
+C:\Users\barry\Desktop\31927-Assignment2-Group2\bin\Debug\Assignment2.exe
+C:\Users\barry\Desktop\31927-Assignment2-Group2\bin\Debug\Assignment2.pdb
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.Email.resources
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.OrderDetail.resources
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.OrderManagement.resources
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.ProductDetail.resources
+C:\Users\barry\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.StockManagement.resources
+E:\github\31927-Assignment2-Group2\obj\Debug\Assignment2.Email.resources
+E:\github\31927-Assignment2-Group2\obj\Debug\Assignment2.OrderDetail.resources
+E:\github\31927-Assignment2-Group2\obj\Debug\Assignment2.OrderManagement.resources
+E:\github\31927-Assignment2-Group2\obj\Debug\Assignment2.ProductDetail.resources
+E:\github\31927-Assignment2-Group2\obj\Debug\Assignment2.SellerForm.resources
+E:\github\31927-Assignment2-Group2\obj\Debug\Assignment2.StockManagement.resources
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.Email.resources
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.OrderDetail.resources
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.OrderManagement.resources
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.ProductDetail.resources
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.SellerForm.resources
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.StockManagement.resources
+C:\Users\USER\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.ProductDetialForm.resources
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\bin\Debug\Assignment2.exe.config
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\bin\Debug\Assignment2.exe
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\bin\Debug\Assignment2.pdb
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\checkout.Checkout.resources
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\checkout.Confirmation.resources
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.CustomerForm.resources
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.Email.resources
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.formLogin.resources
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.Form2.resources
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.OrderDetail.resources
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.OrderManagement.resources
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.ProductDetail.resources
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.ProductDetialForm.resources
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.SellerForm.resources
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.ShoppingCart.resources
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.StockManagement.resources
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.exe
+C:\Users\Pancat\Desktop\31927-Assignment2-Group2\obj\Debug\Assignment2.pdb
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\bin\Debug\Assignment2.exe.config
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\bin\Debug\Assignment2.exe
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\bin\Debug\Assignment2.pdb
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\checkout.Checkout.resources
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\checkout.Confirmation.resources
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\Assignment2.CustomerForm.resources
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\Assignment2.Email.resources
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\Assignment2.formLogin.resources
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\Assignment2.Form2.resources
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\Assignment2.OrderDetail.resources
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\Assignment2.OrderManagement.resources
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\Assignment2.ProductDetail.resources
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\Assignment2.ProductDetialForm.resources
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\Assignment2.Properties.Resources.resources
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\Assignment2.SellerForm.resources
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\Assignment2.ShoppingCart.resources
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\Assignment2.StockManagement.resources
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\Assignment2.exe
+D:\桌面\A2\新建文件夹\31927-Assignment2-Group2\obj\Debug\Assignment2.pdb
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\bin\Debug\Assignment2.exe.config
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\bin\Debug\Assignment2.exe
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\bin\Debug\Assignment2.pdb
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\checkout.Checkout.resources
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\checkout.Confirmation.resources
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\Assignment2.CustomerForm.resources
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\Assignment2.Email.resources
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\Assignment2.formLogin.resources
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\Assignment2.Form2.resources
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\Assignment2.OrderDetail.resources
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\Assignment2.OrderManagement.resources
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\Assignment2.ProductDetail.resources
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\Assignment2.ProductDetialForm.resources
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\Assignment2.SellerForm.resources
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\Assignment2.ShoppingCart.resources
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\Assignment2.StockManagement.resources
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\Assignment2.exe
+C:\Users\Pancat\Documents\WeChat Files\wxid_0u3ib0iyx25k12\FileStorage\File\2023-10\Brian\obj\Debug\Assignment2.pdb
+D:\桌面\A2\新建文件夹\Brian(1)\bin\Debug\Assignment2.exe.config
+D:\桌面\A2\新建文件夹\Brian(1)\bin\Debug\Assignment2.exe
+D:\桌面\A2\新建文件夹\Brian(1)\bin\Debug\Assignment2.pdb
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\checkout.Checkout.resources
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\checkout.Confirmation.resources
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\Assignment2.CustomerForm.resources
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\Assignment2.Email.resources
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\Assignment2.formLogin.resources
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\Assignment2.Form2.resources
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\Assignment2.OrderDetail.resources
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\Assignment2.OrderManagement.resources
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\Assignment2.ProductDetail.resources
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\Assignment2.ProductDetialForm.resources
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\Assignment2.Properties.Resources.resources
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\Assignment2.SellerForm.resources
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\Assignment2.ShoppingCart.resources
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\Assignment2.StockManagement.resources
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\Assignment2.csproj.GenerateResource.cache
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\Assignment2.exe
+D:\桌面\A2\新建文件夹\Brian(1)\obj\Debug\Assignment2.pdb
+C:\Users\USER\Downloads\A2\bin\Debug\Assignment2.exe.config
+C:\Users\USER\Downloads\A2\bin\Debug\Assignment2.exe
+C:\Users\USER\Downloads\A2\bin\Debug\Assignment2.pdb
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Downloads\A2\obj\Debug\checkout.Checkout.resources
+C:\Users\USER\Downloads\A2\obj\Debug\checkout.Confirmation.resources
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.CustomerForm.resources
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.Email.resources
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.formLogin.resources
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.Form2.resources
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.OrderDetail.resources
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.OrderManagement.resources
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.ProductDetail.resources
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.ProductDetialForm.resources
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.SellerForm.resources
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.ShoppingCart.resources
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.StockManagement.resources
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.exe
+C:\Users\USER\Downloads\A2\obj\Debug\Assignment2.pdb
+E:\github\31927-Assignment2-Group2\obj\Debug\Assignment2.ProductDetialForm.resources
